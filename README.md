@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Corrected the GIF image alignment and fixed the URL -->
-  <img src="https://github.com/kundankumarsharma9/kundankumarsharma9/assets/146988764/1c2df593-0ecc-49d5-bc39-75fe7a48ed51" alt="Banner" style="display: block; margin-left: auto; margin-right: auto;" />
+ <img src="https://github.com/kundankumarsharma9/kundankumarsharma9/assets/146988764/1c2df593-0ecc-49d5-bc39-75fe7a48ed51" alt="Banner" style="height: 250px;" />
 </p>
 
 <h3 align="center">A passionate software Developer from India</h3>
